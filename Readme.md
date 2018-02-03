@@ -22,3 +22,9 @@ Then, I’ll do some analysis and visualization of the results combined with tho
 4. Prediction
 5. bar plot
 6. data summary
+
+# Data Summary and graphs
+
+![alt text](https://github.com/MohamedSeliem/Opioid/blob/master/U.S.%20Opiate%20Overdose%20Death%20Rate.png)
+
+![alt text](https://github.com/MohamedSeliem/Opioid/blob/master/Feature%20Importance%20for%20Detecting%20Opioid%20Prescription.png)
